@@ -1,0 +1,21 @@
+nav {
+    background-color: blueviolet;
+}
+
+.nav-links {
+    display: inline-block;
+    padding: 14px 22px;
+}
+
+.nav-link {
+    list-style-type: none;
+    text-decoration: none;
+    color: #FBFBFB;
+}
+
+.nav-links:hover {
+    background-color: rgb(124, 42, 201);
+    opacity: 0.9;
+    transition: 250ms;
+    cursor: pointer;
+}
